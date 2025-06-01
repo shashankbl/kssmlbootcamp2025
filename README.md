@@ -1,5 +1,5 @@
 kssmlbootcamp2025
-## Machine Learning Bootcamp 2025 organized by Kannada Sangha of Sacramento
+## Machine Learning Bootcamp 2025 organized by Kannada Sangha of Sacramento and CampML.org
 #### June 1st 2025 (Granite Bay Public Library) & June 8th 2025 (Rocklin Public Library)
 #### 11 am - 4 pm
 ---
