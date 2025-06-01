@@ -9,7 +9,9 @@ kssmlbootcamp2025
 ### Day 1: Basics of Programming and Machine Learning
 1. Getting started:
      - https://github.com/shashankbl/kssmlbootcamp2025/blob/main/0_Basics_GettingStartedWithProgramming.ipynb
-2. Python programming: 
+2. Python programming:
+     - https://github.com/shashankbl/kssmlbootcamp2025/blob/main/1_Basics_PythonProgramming.ipynb
+3. 
 
 
 
